@@ -1,0 +1,4 @@
+*.db 
+instance/*.db
+instance/
+chatenv/
